@@ -14,3 +14,5 @@ This repository is intentionally **not** tied to the official design or roadmap 
 | [`docs/adr/`](docs/adr/) | Architecture Decision Records: context, decision, consequences, and rejected alternatives. |
 | [`notes/`](notes/) | Working notes and exploratory writing that may later promote into `spec/` or an ADR. |
 | [`experiments/`](experiments/) | Small prototypes and spikes; disposable code tied to a narrow slice of a spec. |
+
+**Key decision:** [ADR 0001 — AI lakehouse first as the design center](docs/adr/0001-ai-lakehouse-first-as-design-center.md).
